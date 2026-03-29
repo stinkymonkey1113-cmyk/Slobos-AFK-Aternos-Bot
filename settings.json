@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Burrito Server Renderer",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Burrito Server Renderer",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 480,
       "messages": [
-        "Burrito Bot 0000: true",
-        "rendering reload",
-        "launching..."
+        "Running text",
+        "functioning=true",
+        "here=true"
       ]
     },
     "chat-log": true,
