@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "24-7BurritoSMP.aternos.me",
+    "port": 18198,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 1000,
     "z": 0
   },
   "utils": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Burrito Bot 0000: true",
+        "rendering reload",
+        "launching..."
       ]
     },
     "chat-log": true,
